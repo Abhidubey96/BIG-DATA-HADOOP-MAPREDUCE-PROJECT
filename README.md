@@ -5,6 +5,8 @@ Big Data – Hadoop Project
 Name: Abhishek Dubey
 Contact: abhishekdubey.irl@gmail.com
 
+Check Project Report in pdf
+
 Dataset Overview
 We are using 3 languages books from Project Gutenberg (http://www.gutenberg.org/). Total books we are using in 
 this Assignment is 6.
